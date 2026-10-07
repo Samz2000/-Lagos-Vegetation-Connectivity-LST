@@ -111,23 +111,11 @@ This project demonstrates practical experience with:
 
 ## Project Structure
 
-Lagos_GEOAI/
-│
-├── GEE/
-│   └── Google Earth Engine scripts
-│
-├── Results/
-│   └── results.csv
-│
-├── figures/
-│   ├── maps
-│   ├── charts
-│   └── .gitkeep
-│
-├── .tif / .tiff
-│   └── exported raster outputs
-│
-└── README.md
+- GEE/ — Google Earth Engine scripts
+- Results/ — Contains results.csv
+- figures/ — Maps and charts from the analysis
+- .tif / .tiff files — Exported raster outputs
+- README.md — Project documentation
 
 
 
