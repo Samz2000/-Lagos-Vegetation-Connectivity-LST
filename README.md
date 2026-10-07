@@ -124,10 +124,12 @@ Lagos_GEOAI/
 │   ├── charts
 │   └── .gitkeep
 │
-├── GeoTIFF/
+├── .tif / .tiff
 │   └── exported raster outputs
 │
 └── README.md
+
+
 
 ## Future Improvements
 
